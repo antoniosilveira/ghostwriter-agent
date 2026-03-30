@@ -86,12 +86,12 @@ Analytics layer on top of workflow data. Surfaces bottlenecks, volume trends, an
 ## Org Structure
 
 **Leadership team:**
-- CEO: James Whitmore
-- COO: Sandra Park
-- CPO: Elena Vasquez
+- CEO: Bossman Palpatino
+- COO: Organa Fleetrunner
+- CPO: Vader Productsworth
 - CTO: John Doe ← (this is you — update with your actual name)
-- CFO: David Okafor
-- Chief People Officer: Rachel Stern
+- CFO: Greedo Moneycoin
+- Chief People Officer: Lando Peopleberg
 
 ---
 
