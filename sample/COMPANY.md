@@ -103,11 +103,11 @@ Analytics layer on top of workflow data. Surfaces bottlenecks, volume trends, an
 
 | Name | Team | Focus |
 |------|------|-------|
-| Leia Bridger | Platform Core | Infra, reliability, internal developer tooling |
-| Han Calrissian | Integrations | Third-party connectors, API platform |
-| Luke Erso | Product Engineering | Flow and Sync product features |
-| Wedge Andor | Data & Analytics | Insights product, data pipelines |
-| Obi Dameron | Developer Experience | CI/CD, tooling, onboarding |
+| Jedi Skyblaster | Platform Core | Infra, reliability, internal developer tooling |
+| Darth Codeberg | Integrations | Third-party connectors, API platform |
+| Yoda Stackwalker | Product Engineering | Flow and Sync product features |
+| Chewie Deployson | Data & Analytics | Insights product, data pipelines |
+| R2 Devtwo | Developer Experience | CI/CD, tooling, onboarding |
 
 > **Note:** Each manager leads a team of 8-15 engineers.
 > Engineering total: ~80 people across 5 teams.
