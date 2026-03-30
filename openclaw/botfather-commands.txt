@@ -1,0 +1,8 @@
+review - Review for grammar, clarity, typos
+reply - Draft a reply to email, Slack, or iMessage
+outreach - Draft cold/warm outreach to a contact
+announce - Draft an org or team announcement
+post - Draft a short LinkedIn post
+blog - Research + draft a long-form article
+prep - Pre-meeting or pre-conversation brief
+feedback - Strategic tone and framing review
