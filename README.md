@@ -52,7 +52,7 @@ The `sample/` files define your identity. The `commands/` files define the workf
 
 ---
 
-## The 8 Commands
+## Built in Commands
 
 | Command | Purpose | Output |
 |---------|---------|--------|
