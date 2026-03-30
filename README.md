@@ -1,6 +1,6 @@
 # ghostwriter-agent
 
-A template for building a deterministic AI communications agent — one that reviews drafts, writes outreach, and prepares you for conversations in your voice.
+A template for building a deterministic AI communications agent — one that reviews drafts, writes outreach, and prepares you for conversations in your voice and tone. This agent uses a series of slash commands that can add structure and reliability to the wiritng tasks you delate to it.
 
 Works on two surfaces: **Telegram** via OpenClaw, and **Claude Code TUI** in the terminal.
 
@@ -18,9 +18,9 @@ The right mental model: the agent is a ghostwriter, not a sender.
 
 ## Why Slash Commands
 
-Without commands, the agent has to infer what you want from how you phrase your request. Inference is fragile — the same input produces different outputs depending on context.
+Without commands, the agent has to infer what you want from how you phrase your request. Inference is fragile — the same input can produce different outputs depending on the state of your context.
 
-Slash commands replace inference with explicit intent. `/review` always means the same thing. The agent doesn't have to guess.
+Slash commands replace pure LLM inference with explicit intent. `/review` always means the same thing. The agent doesn't have to guess.
 
 One command = one workflow. No ambiguity.
 
@@ -127,7 +127,7 @@ See [commands/README.md](commands/README.md) for the full contribution guide.
 
 ## How This Was Built
 
-This project is the companion code for the blog post:  
+This project is the companion code project for the blog post:  
 [AI Communication Agent: How Slash Commands Make Claude Reliable for Writing](https://antonio.md/making-ai-communications-deterministic)
 
 The post explains the design decisions behind this approach — why inference fails, why slash commands work, and how `VOICE.md` is the piece most people miss.
